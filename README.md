@@ -18,3 +18,5 @@ Los datos del script 1 y 2 fueron guardados en la base de datos juegos olímpico
 Obtención de json de dos usuarios:
 ![imagen](https://user-images.githubusercontent.com/58041267/127724600-4ee68966-03a2-42a5-a006-49aeffcb779b.png)
 
+Mongo DB ATLAS:
+![imagen](https://user-images.githubusercontent.com/58041267/127725339-4d025472-51b6-4896-909a-8d06af086b21.png)
